@@ -1,1 +1,2 @@
-/home/ander/.minecraft/resourcepacks/myPack/todo.txt
+* change inventory icon for mossy/cracked stuff so it's visable
+* also another wacky one, for all (31)
