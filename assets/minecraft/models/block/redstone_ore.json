@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+	"particle": "block/stone",
+        "end": "block/redstone_ore",
+        "side": "block/redstone_ore_side"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+	"particle": "block/stone",
+        "end": "block/gold_ore",
+        "side": "block/gold_ore_side"
+    }
+}

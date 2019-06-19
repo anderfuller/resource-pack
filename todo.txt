@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 * change inventory icon for mossy/cracked stuff so it's visible
 * add a lot more textures
+=======
+* change inventory icon for mossy/cracked stuff so it's visable
+* connect ores
+* better gold color
+>>>>>>> added ores, ctm with related blocks
