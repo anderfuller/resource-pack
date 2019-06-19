@@ -1,2 +1,2 @@
-* change inventory icon for mossy/cracked stuff so it's visable
-* also another wacky one, for all (31)
+* change inventory icon for mossy/cracked stuff so it's visible
+* add a lot more textures
