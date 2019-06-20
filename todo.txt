@@ -1,2 +1,3 @@
 * change inventory icon for mossy/cracked stuff so it's visible
 * connect grass_block_side_overlay
+* fix stone_stairs_top + slab_top
