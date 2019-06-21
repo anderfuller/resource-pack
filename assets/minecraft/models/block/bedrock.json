@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "block/bedrock",
+        "side": "block/bedrock_side"
+    }
+}
