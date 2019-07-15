@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "block/birch_log_top_bark",
+        "down": "block/birch_log_top_bark",
+        "up": "block/birch_log_top_bark",
+        "north": "block/birch_log",
+        "east": "block/birch_log_side",
+        "south": "block/birch_log",
+        "west": "block/birch_log_side"
+    }
+}

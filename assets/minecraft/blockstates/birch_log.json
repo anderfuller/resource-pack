@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "block/birch_log" },
+        "axis=z":   { "model": "block/birch_log_sideways"},
+        "axis=x":   { "model": "block/birch_log_sideways", "y": 90 }
+    }
+}

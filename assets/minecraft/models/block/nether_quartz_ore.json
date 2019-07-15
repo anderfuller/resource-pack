@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+	"particle": "block/netherrack",
+        "end": "block/nether_quartz_ore",
+        "side": "block/nether_quartz_ore_side"
+    }
+}

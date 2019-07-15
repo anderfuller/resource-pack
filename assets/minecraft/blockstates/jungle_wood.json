@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y": { "model": "block/jungle_wood" },
+        "axis=z": { "model": "block/jungle_wood_sideways"},
+        "axis=x": { "model": "block/jungle_wood_sideways", "y": 90 }
+    }
+}

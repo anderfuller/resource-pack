@@ -1,6 +1,5 @@
 * change inventory icon for mossy/cracked stuff so it's visible
-* fix stone_stairs_top + slab_top
-* fix planks stairs/slabs
-* new model for fence/gate
+* all stairs, slabs, fences/gates, walls
 * leaves
 * stripped log sides
+* fix ctm for stone-brick-variants, sandstone-variants
