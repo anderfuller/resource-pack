@@ -1,4 +1,5 @@
 * change inventory icon for mossy/cracked stuff so it's visible
+* ADD OUTLINES
 * all stairs, slabs, fences/gates, walls, pressure plates, buttons, levers
 * leaves
 * stripped log sides
