@@ -1,5 +1,6 @@
 * change inventory icon for mossy/cracked stuff so it's visible
-* ADD OUTLINES
+* Add moss tinting?
+* redo cobblestone, stone bricks (and ctm)
 * all stairs, slabs, fences/gates, walls, pressure plates, buttons, levers
 * leaves
 * stripped log sides
