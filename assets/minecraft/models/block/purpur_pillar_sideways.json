@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "block/purpur_pillar_sideways",
+        "down": "block/purpur_pillar_sideways_bottom",
+        "up": "block/purpur_pillar_sideways_top",
+        "north": "block/purpur_pillar_top_sideways",
+        "east": "block/purpur_pillar_sideways",
+        "south": "block/purpur_pillar_top_sideways",
+        "west": "block/purpur_pillar_sideways_west"
+    }
+}
