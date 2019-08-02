@@ -1,8 +1,9 @@
 {
-    "parent": "block/cube_column",
+    "parent": "block/ore",
     "textures": {
-	"particle": "block/stone",
-        "end": "block/lapis_ore",
-        "side": "block/lapis_ore_side"
+        "ore": "block/lapis_ore",
+        "ore_side": "block/lapis_ore_side",
+        "base": "block/stone",
+        "base_side": "block/stone_side"
     }
 }
