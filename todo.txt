@@ -1,5 +1,5 @@
 * change inventory icon for mossy/cracked stuff so it's visible
-* fix dirt, cobblestone, sandstones ctm, copying method from ores
+* fix dirt, cobblestone, copying method from ores
 * cracked stone bricks
 * all stairs, slabs, fences/gates, walls, pressure plates, buttons, levers
 * leaves

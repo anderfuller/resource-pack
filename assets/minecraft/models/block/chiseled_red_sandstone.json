@@ -1,7 +1,68 @@
 {
-    "parent": "block/cube_column",
-    "textures": {
-        "end": "block/red_sandstone",
-        "side": "block/chiseled_red_sandstone"
-    }
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"1": "block/chiseled_red_sandstone",
+		"2": "block/red_sandstone",
+		"3": "block/red_sandstone_side",
+		"particle": "block/red_sandstone"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"from": [16.1, 1.25, 1.25],
+			"to": [16.1, 14.75, 14.75],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 6], "texture": "#missing"},
+				"east": {"uv": [1.25, 1.25, 14.75, 14.75], "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 6], "texture": "#missing"},
+				"up": {"uv": [0, 0, 0, 6], "texture": "#missing"},
+				"down": {"uv": [0, 0, 0, 6], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [-0.1, 1.25, 1.25],
+			"to": [-0.1, 14.75, 14.75],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 6], "texture": "#missing"},
+				"south": {"uv": [0, 0, 0, 6], "texture": "#missing"},
+				"west": {"uv": [1.25, 1.25, 14.75, 14.75], "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 6], "texture": "#missing"},
+				"down": {"uv": [0, 0, 0, 6], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [1.25, 1.25, -0.1],
+			"to": [14.75, 14.75, -0.1],
+			"faces": {
+				"north": {"uv": [1.25, 1.25, 14.75, 14.75], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 6], "texture": "#missing"},
+				"west": {"uv": [0, 0, 0, 6], "texture": "#missing"},
+				"up": {"uv": [0, 0, 6, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 6, 0], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [1.25, 1.25, 16.1],
+			"to": [14.75, 14.75, 16.1],
+			"faces": {
+				"east": {"uv": [0, 0, 0, 6], "texture": "#missing"},
+				"south": {"uv": [1.25, 1.25, 14.75, 14.75], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 6], "texture": "#missing"},
+				"up": {"uv": [0, 0, 6, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 6, 0], "texture": "#missing"}
+			}
+		}
+	]
 }
