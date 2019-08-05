@@ -1,0 +1,7 @@
+{
+    "parent": "block/sapling",
+    "textures": {
+        "log": "block/oak_log",
+        "leaves": "block/oak_leaves_green"
+    }
+}
