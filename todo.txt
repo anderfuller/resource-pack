@@ -7,3 +7,5 @@
 * stripped log sides
 * re-redo stone bricks
 * cracked-variants
+* extend sapling stem into leaves
+* recolor oak_leaves_green

@@ -1,0 +1,7 @@
+{
+    "parent": "block/sapling",
+    "textures": {
+        "log": "block/spruce_log",
+        "leaves": "block/spruce_leaves"
+    }
+}
