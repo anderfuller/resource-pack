@@ -1,0 +1,8 @@
+{
+    "parent": "block/sapling",
+    "textures": {
+        "log": "block/acacia_log",
+        "log_top": "block/acacia_log_top",
+        "leaves": "block/acacia_leaves_green"
+    }
+}

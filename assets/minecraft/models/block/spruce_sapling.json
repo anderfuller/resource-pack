@@ -2,6 +2,7 @@
     "parent": "block/sapling",
     "textures": {
         "log": "block/spruce_log",
-        "leaves": "block/spruce_leaves"
+        "log_top": "block/spruce_log_top",
+        "leaves": "block/spruce_leaves_green"
     }
 }
